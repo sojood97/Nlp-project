@@ -1,3 +1,3 @@
 # Nlp-project
-Text summarization
-Sojood &amp; Aya team
+# Text summarization
+Sojood & Aya team
